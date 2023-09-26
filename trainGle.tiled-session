@@ -1,0 +1,28 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "未命名.tmx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "未命名.tmx": {
+            "scale": 3.5205,
+            "selectedLayer": -1,
+            "viewCenter": {
+                "x": 29.54125834398522,
+                "y": 30.10935946598495
+            }
+        }
+    },
+    "map.fixedSize": false,
+    "map.lastUsedFormat": "tmx",
+    "openFiles": [
+        "未命名.tmx"
+    ],
+    "project": "trainGle.tiled-project",
+    "recentFiles": [
+        "未命名.tmx"
+    ]
+}
