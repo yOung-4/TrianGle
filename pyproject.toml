@@ -9,6 +9,8 @@ readme = "README.md"
 python = "^3.11"
 arcade = "^2.6.17"
 python-i18n = "^0.3.9"
+pyyaml = "^6.0.1"
+pony = "^0.7.17"
 
 
 [build-system]
